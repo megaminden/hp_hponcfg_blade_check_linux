@@ -1,0 +1,6 @@
+#format : server_name|server_ip_add|ssh landing directory|user to connect with (not used)|"bladeUser"| "bladePassword"
+hp_blade1|172.XXX.XXX.XXX|/tmp|root|N/A|N/A|
+hp_blade3|172.XXX.XXX.XXX|/tmp|root|N/A|N/A|
+
+
+
